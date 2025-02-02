@@ -1,0 +1,9 @@
+new 30
+set 1
+set 3
+reset 3
+set 5
+set 10
+reset 5
+set 11
+end

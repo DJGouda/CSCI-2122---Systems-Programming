@@ -1,0 +1,14 @@
+new 30
+set 29
+set 28
+set 27
+set 26
+set 25
+set 24
+toggle 29
+toggle 28
+toggle 27
+toggle 26
+toggle 25
+toggle 24
+end

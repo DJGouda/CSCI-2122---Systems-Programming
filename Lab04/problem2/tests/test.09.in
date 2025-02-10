@@ -1,0 +1,8 @@
+new 10
+add hello
+add byebye
+add world
+get 0
+remove 1
+destroy
+end

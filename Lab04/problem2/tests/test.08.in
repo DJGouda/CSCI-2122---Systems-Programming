@@ -1,0 +1,9 @@
+new 10
+add hello
+add world
+add byebye
+remove 1
+remove 0
+add adieu
+remove 1
+end

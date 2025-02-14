@@ -1,0 +1,12 @@
+00: 0 dictionary
+01: 1 word dictionary with a panagram
+02: 5 word dictionary with a panagram
+03: 10 word dictionary with multiple panagrams and related nonpa panagram words
+
+04: 1 word dictionary with a panagram
+05: 5 word dictionary with a panagram
+06: 10 word dictionary with multiple panagrams and related nonpa panagram words
+
+07: 5 word dictionary with a panagram
+08: 10 word dictionary with multiple panagrams and related nonpa panagram words
+09: stress test

@@ -1,0 +1,8 @@
+new
+append alpha
+append gamma
+find alpha
+insert beta
+find beta
+remove 
+end

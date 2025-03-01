@@ -1,0 +1,6 @@
+new
+append Alice
+empty
+prepend Carol
+size
+end

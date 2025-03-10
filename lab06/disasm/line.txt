@@ -1,0 +1,23 @@
+
+line.o:     file format elf64-x86-64
+
+
+Disassembly of section .text:
+
+0000000000000000 <line>:
+   0:	55                   	push   %rbp
+   1:	48 89 e5             	mov    %rsp,%rbp 
+   4:	89 7d ec             	mov    %edi,-0x14(%rbp) // x
+   7:	89 75 e8             	mov    %esi,-0x18(%rbp) // m
+   a:	89 55 e4             	mov    %edx,-0x1c(%rbp) // b
+   d:	8b 45 e8             	mov    -0x18(%rbp),%eax // y
+				// y = m * x
+  10:	0f af 45 ec          	imul   -0x14(%rbp),%eax 
+  14:	89 45 fc             	mov    %eax,-0x4(%rbp) 
+  17:	8b 45 e4             	mov    -0x1c(%rbp),%eax
+				// y = y + b
+  1a:	01 45 fc             	add    %eax,-0x4(%rbp)
+				// return y
+  1d:	8b 45 fc             	mov    -0x4(%rbp),%eax 
+  20:	5d                   	pop    %rbp
+  21:	c3                   	ret

@@ -1,3 +1,4 @@
+// @Duren Gouda
 #include <stdio.h>
 #include "line.h"
 #include "min.h"

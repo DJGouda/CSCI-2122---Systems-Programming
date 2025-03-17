@@ -1,3 +1,5 @@
+// @Duren Gouda
+
 #include <stdio.h>
 
 long min_bits(long x, long y) {

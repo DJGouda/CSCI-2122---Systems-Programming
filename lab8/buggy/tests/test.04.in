@@ -1,0 +1,21 @@
+new
+append alpha
+find alpha
+insert beta
+find beta
+remove
+find alpha
+insert gamma
+find gamma
+insert delta
+find gamma
+insert beta
+find alpha
+remove
+find gamma
+remove
+find delta
+remove
+find beta
+remove
+end

@@ -1,0 +1,13 @@
+new
+append alpha
+find alpha
+remove
+append beta
+append gamma
+find gamma
+remove 
+append delta
+append epsilon
+find delta
+remove
+end

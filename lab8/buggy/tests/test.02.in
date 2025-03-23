@@ -1,0 +1,7 @@
+new
+append alpha
+find alpha
+insert gamma
+find alpha
+insert beta
+end

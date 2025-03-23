@@ -1,0 +1,20 @@
+[ ]
+[ alpha ]
+'alpha' found in list
+[ alpha beta ]
+'beta' found in list
+[ alpha ]
+'alpha' found in list
+[ alpha gamma ]
+'gamma' found in list
+[ alpha gamma delta ]
+'gamma' found in list
+[ alpha gamma beta delta ]
+'alpha' found in list
+[ gamma beta delta ]
+'gamma' found in list
+[ beta delta ]
+'delta' found in list
+[ beta ]
+'beta' found in list
+[ ]

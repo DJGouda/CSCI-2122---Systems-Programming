@@ -2,7 +2,3 @@
 
 Winter 2025
 
-God, please pass me this course!!!!!
-
-I don't want to take this course again
-
